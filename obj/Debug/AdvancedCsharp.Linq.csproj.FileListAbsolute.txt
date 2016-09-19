@@ -1,0 +1,6 @@
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\bin\Debug\AdvancedCsharp.Linq.exe.config
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\bin\Debug\AdvancedCsharp.Linq.exe
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\bin\Debug\AdvancedCsharp.Linq.pdb
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\obj\Debug\AdvancedCsharp.Linq.csprojResolveAssemblyReference.cache
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\obj\Debug\AdvancedCsharp.Linq.exe
+D:\C#\BACKEND\Advanced C#\Inlämning 2\AdvancedCsharp.Linq\obj\Debug\AdvancedCsharp.Linq.pdb
